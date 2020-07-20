@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Bags & Luggage",
+        "slug": "bags-luggage-966bc8aac",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMDljNmYwMTVlZGFiLTc1MzI4NzUwXzQ3NzU5OTE1OTUwNDk5MV81Mjg2MDg1NzA4ODQ1NDE2NDQ4X24ucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Beauty & Bodycare",
+        "slug": "beauty-bodycare-172ec0d98",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZTRjNmMyMjAxYzIzLWJlYXV0eS1ib2R5Y2FyZS5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Books & Stationery",
+        "slug": "books-stationery-ba8c6b105",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNjc2OTBkMDE0N2ZjLWJvb2tzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Construction Materials",
+        "slug": "construction-materials-d113194a4",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvYWQ4ZWNlMmUxYjU0LWNvbnN0cnVjdGlvbi1tYXRlcmlhbHMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Decoration Materials",
+        "slug": "decoration-materials-8410044cf",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNjM4YWI0MjY3OTRjLWRlY29yYXRpb24tbWF0ZXJpYWxzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Digital Goods",
+        "slug": "digital-goods-2537caa36",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMjI3NWUzOWFiNDg4LTc0NjA5NDY4XzI0MjY2OTU4MjA5MTkwMjZfNDM1MTE1MDE5MjY5NTcwNTYwMF9uLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Electric & Parts",
+        "slug": "electric-parts-e69e50d2f",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNzhjZmI4NGJiMTk3LWVsZWN0cmljLXBhcnRzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Electronics and Appliance",
+        "slug": "electronics-and-appliance-5ce8939d4",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvOGE2NmRlNmQxNTU0LWVsZWN0cm9uaWNzLWFuZC1hcHBsaWFuY2UucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Event & Media",
+        "slug": "event-media-4c778a622",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZWUxODVjZWJkNGJmLWV2ZW50LW1lZGlhLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Fashion For Men",
+        "slug": "fashion-for-men-bee82e9ba",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvODA0M2YzZDNiZGE0LW1lbi5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Fashion For Women",
+        "slug": "fashion-for-women-75b8b0ba5",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvODc4MzRkZDVlZmMxLXdvbWVuLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Furniture",
+        "slug": "furniture-a0121d623",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvOTQ1MDk0MGIyM2UyLWZ1cm5pdHVyZS5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Glasses",
+        "slug": "glasses-80fed353d",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNTkwNmU4NGE1NDEzLWdsYXNzZXMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Grocery",
+        "slug": "grocery-f93e6cdf1",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNTJiMGJmYjRkNjNiLWdyb2NlcnkucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Handmade",
+        "slug": "handmade-2a7770404",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMGJkNDBlNjcxMjcwLWhhbmRtYWRlLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Harvesting & Agriculture",
+        "slug": "harvesting-agriculture-acd16134b",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZGM0ZmY1OWZkYzVkLWhhcnZlc3RpbmctYWdyaWN1bHR1cmUucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Health Care and Pharmaceutical",
+        "slug": "health-care-and-pharmaceutical-461de4f12",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMDlmNzc2ODBmMjk3LWhlYWx0aC1jYXJlLWFuZC1waGFybWFjZXV0aWNhbC5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Home & Living",
+        "slug": "home-living-63562e055",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvN2VkM2Y1NzNkMWZkLWhvbWUtbGl2aW5nLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Home Appliance",
+        "slug": "home-appliance-74701b133",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMWRmMjJiNWQxYzkzLXBuZy5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Home Garden",
+        "slug": "home-garden-6b4911201",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvY2NhODBhNGRiYTM5LWhvbWUtZ2FyZGVuLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Hotel Booking",
+        "slug": "hotel-booking-95e415b49",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMmE0YTIwMzRiNGE1LWhvdGVsLWJvb2tpbmcucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Jewellery",
+        "slug": "jewellery-0ac268845",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZTg0NDI1NGY0NDBjLWpld2VsbGVyeS5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Kitchen & Dining",
+        "slug": "kitchen-dining-5e34f4934",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZjYyNjlkNWU5MDg4LWtpdGNoZW4tZGluaW5nLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Leather Goods",
+        "slug": "leather-goods-6a0b80ea7",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvM2IxNzdiODkxNDUxLWxlYXRoZXItZ29vZHMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "LP Gas",
+        "slug": "lp-gas-f9f11d790",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvYzA4MjgzYWI2NzIxLWxwLWdhcy5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Machineries",
+        "slug": "machineries-2f97319bf",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvOTFmMTliZjQzY2UwLW1hY2hpbmVyaWVzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Mother, Kids & Toys",
+        "slug": "mother-kids-toys-1ab77b4bf",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZGYyZjFkYjVkMmVjLWtpZHMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Paints",
+        "slug": "paints-e0476142d",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZGZmZTFhYzE2MjU5LXBhaW50cy5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Pet & Poultry Supplies",
+        "slug": "pet-poultry-supplies-71f1bcb86",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvOGE4NjI5MmViYTQ4LXBldC1wb3VsdHJ5LXN1cHBsaWVzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Plastic made Products",
+        "slug": "plastic-made-products-4fdf5f0db",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNmZiMzc1NTNlN2YwLXBsYXN0aWMtbWFkZS1wcm9kdWN0cy5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Property",
+        "slug": "property-23ca7d84e",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvOTIwOGFmZjhjMzkzLXByb3BlcnR5LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Security Safe",
+        "slug": "security-safe-ae6f0ab7f",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZmQzODk2MWYzZDBhLXdhdGVycHJvb2ZmaXJlc2FmZTMwbWludXRlc2ZpcmVhbmQ4aG91cnNlY3VyaXR5c2FmZXdpdGhlbGVjdHJvbmljbG9jay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Service",
+        "slug": "service-cc45c2b85",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNTcwNzMwNzhiODJkLXNlcnZpY2UucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+    },
+    {
+        "name": "Shoes",
+        "slug": "shoes-4-e89d62c12",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvNDQxYmY1NzEwOGRkLXNob2VzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Sports",
+        "slug": "sports-fcb1cb312",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvZTAzYmUwMGMyMTM1LXNwb3J0cy5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+    },
+    {
+        "name": "Vehicles & Parts",
+        "slug": "vehicles-parts-2ab45393f",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvMGE1YmQwODBhZTg5LXZlaGljbGVzLXBhcnRzLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    },
+    {
+        "name": "Watch & Clock",
+        "slug": "watch-clock-5f60b3d5d",
+        "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvM2I4OTBhM2M4MDRjLXdhdGNoLWNsb2NrLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+    }
+]

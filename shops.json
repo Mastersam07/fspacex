@@ -1,0 +1,142 @@
+{
+    "success": true,
+    "message": "shops fetched successfully",
+    "count": 11872,
+    "data": [
+        {
+            "slug": "sumash-tech",
+            "contact_number": "01625033964",
+            "shop_name": "Evaly Sumash Tech Official Store",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/watermarked/2019-07-15_132548.618326Sumash-Tech.jpg",
+            "approval": 1,
+            "owner_name": "Sumash",
+            "owner_number": "01625033964"
+        },
+        {
+            "slug": "rio-international-1",
+            "contact_number": "01303484285",
+            "shop_name": "Evaly Rio International Official Store",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/482884188546-image.jpg",
+            "approval": 1,
+            "owner_name": "Rio",
+            "owner_number": "01303484285"
+        },
+        {
+            "slug": "tvs-bangladesh",
+            "contact_number": "",
+            "shop_name": "Tvs Auto Bangladesh Ltd",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/1fac0842b080-tvs.png",
+            "approval": 1,
+            "owner_name": "Hafiz Mahmud",
+            "owner_number": "01919197724"
+        },
+        {
+            "slug": "gadget-x",
+            "contact_number": "01720588183",
+            "shop_name": "Evaly GadgetX Official Store ",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/watermarked/2019-07-30_083143.408538286.jpg",
+            "approval": 1,
+            "owner_name": "Saiful",
+            "owner_number": "01720588183"
+        },
+        {
+            "slug": "new-camera-world",
+            "contact_number": "01714772191",
+            "shop_name": "New Camera World",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/5343634cb13f-image.jpg",
+            "approval": 1,
+            "owner_name": "Md. Jashim",
+            "owner_number": "01714772191"
+        },
+        {
+            "slug": "zays",
+            "contact_number": "01612804222",
+            "shop_name": "Evaly Zays Official Store",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/watermarked/2019-06-15_074934.jpg",
+            "approval": 1,
+            "owner_name": "Md Mazidul",
+            "owner_number": "01712804222"
+        },
+        {
+            "slug": "edokandar",
+            "contact_number": "01644476655",
+            "shop_name": "eDokandar",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/67592743f4b9-logo-blue.png",
+            "approval": 1,
+            "owner_name": "eDokandar",
+            "owner_number": "01611237418"
+        },
+        {
+            "slug": "colormax-evaly-shop",
+            "contact_number": "01927111666",
+            "shop_name": "Evaly Colormax Store",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/2019-04-15_123204.71641587.png",
+            "approval": 1,
+            "owner_name": "admin",
+            "owner_number": "01927111666"
+        },
+        {
+            "slug": "kham-express",
+            "contact_number": "01774200035",
+            "shop_name": "KhaM Express",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/watermarked/2019-03-09_100622.82256077.jpg",
+            "approval": 1,
+            "owner_name": "Md. Golam",
+            "owner_number": "01818910944"
+        },
+        {
+            "slug": "khaleque-and-sons",
+            "contact_number": "01914860600",
+            "shop_name": "Khaleque and Sons",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/d3a39e75d232-image-18.png",
+            "approval": 1,
+            "owner_name": "Sakhawat Hossain",
+            "owner_number": "01914860600"
+        },
+        {
+            "slug": "tong-bazar",
+            "contact_number": "01710574123",
+            "shop_name": "TONG BAZAR",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/4be9e4ccaa2a-image-13.png",
+            "approval": 1,
+            "owner_name": "Masud",
+            "owner_number": "01710574123"
+        },
+        {
+            "slug": "global-brand-pvt-ltd",
+            "contact_number": "01672080804",
+            "shop_name": "Evaly Global Brand Official Store",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/1b220e267ef8-7f215afc-4fca-4128-b4b9-d99fe4ce9ce4_200x200.png",
+            "approval": 1,
+            "owner_name": "MD. Mahfuzur",
+            "owner_number": "01977476395"
+        },
+        {
+            "slug": "sanju-international",
+            "contact_number": "01817118751",
+            "shop_name": "Sanju International",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/fab05ca771ed-gold-and-black-vintage-logo.png",
+            "approval": 1,
+            "owner_name": "Md Rashedul",
+            "owner_number": "01817118751"
+        },
+        {
+            "slug": "nilkhet-books-market",
+            "contact_number": "01711345574",
+            "shop_name": "Nilkhet Books Market",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/fc55cf6f433e-71183384_2376161422438254_6688997322514235392_o.jpg",
+            "approval": 1,
+            "owner_name": "Nilkhet",
+            "owner_number": "01711345574"
+        },
+        {
+            "slug": "smartshopbd",
+            "contact_number": "01915130120",
+            "shop_name": "SmartshopBD",
+            "shop_image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/2019-05-30_072910.55195860477360_585095731977292_1386572389843730432_n.png",
+            "approval": 1,
+            "owner_name": "jowel ",
+            "owner_number": "01915130120"
+        }
+    ]
+}

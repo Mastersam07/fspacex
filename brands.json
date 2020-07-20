@@ -1,0 +1,107 @@
+{
+    "count": 3889,
+    "next": "http://api.evaly.com.bd/public/brands/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "name": "Toyota",
+            "slug": "toyota-0d459e399",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA4LTI5XzEyMjcwNy4wMjk3MzV0b3lvdGFfT3RDb3I5MS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Individual Collections",
+            "slug": "non-brand-24eb74301",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA2LTEzXzA5NTYxNi41MjI4MDRJbmRpdmlkdWFsLUNvbGxlY3Rpb25zLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+        },
+        {
+            "name": "teer",
+            "slug": "teer-d85d3790f",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA2LTIzXzEwNTExMC4yODg2Njh0ZWVyLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+        },
+        {
+            "name": "AKS",
+            "slug": "aks-1036945e9",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA5LTA1XzA2NDU1NS41OTM1OTRha3MuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+        },
+        {
+            "name": "diploma",
+            "slug": "diploma-f2ad817a8",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzQxMi41NzM3NjUxMzEyNWEyN2RlNzhiNTBhZC1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "ACI",
+            "slug": "aci-7a70698d8",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzMyNy43ODY3NjBhY2k1YTBkMmJiOTE2NDA4LWJnLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+        },
+        {
+            "name": "marks",
+            "slug": "marks-a4b4b3c9b",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzQxNS45NDExNDYxMzE5NWE0MjJjYWMxMjQyMS1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Samsung",
+            "slug": "samsung-27cca49c9",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzI0Ni4zMzYxNzNzYW1zdW5nNWEwYzFlYmQ5ZDdkYi1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "ACI pure",
+            "slug": "acipuresticknoodles-ecaafd923",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzA0Ni43NDgzNTlhY2lfcHVyZV9zdGlja19ub29kbGVzNWEwZDJiZjFlYTllNS1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Xiaomi",
+            "slug": "xiaomi-004a023b8",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS8yMDE5LTA1LTA5XzA4NTI0NC4wNjcyMzYxNi5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Nestle",
+            "slug": "nestle-6ea840bf5",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA2LTA3XzA1NDk1NS40OTYwMzFOZXN0bGVfZEdFOFROVy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "arla dano",
+            "slug": "arladano-52ff391a1",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzQxMy45NTk3NzkxMzE1NWExMTc1Y2Y0MGY5Mi1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Garnier",
+            "slug": "garnier-104672b97",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzA1NC42MTU3OTZnYXJuaWVyNWEwYmZmOTY5ZDM5ZS1iZ19KYTZCengzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+        },
+        {
+            "name": "ASRM",
+            "slug": "asrm-170bb357d",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJtZWRpYS9pbWFnZXMvODVjODY4NDdiMDI2LWFzcm0ucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogMjUwLCAiaGVpZ2h0IjogMjUwLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDAsICJnIjogMCwgImIiOiAwLCAiYWxwaGEiOiAwfX0sICJwbmciOiB7ImFkYXB0aXZlRmlsdGVyaW5nIjogdHJ1ZSwgInByb2dyZXNzaXZlIjogdHJ1ZSwgImZvcmNlIjogdHJ1ZX19fQ=="
+        },
+        {
+            "name": "fresh",
+            "slug": "fresh-436aa6639",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzMyOS4xOTc4ODYxMjMxNWEyOTFmYTkzMzE4Ny1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "KSRM",
+            "slug": "ksrm-bf861cd27",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA5LTA1XzA2MzMxOS45MDkyMzNrc3JtLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+        },
+        {
+            "name": "Motorola",
+            "slug": "motorola-6e6186b31",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzUzMi45MzMyNDYxNDYwNWE0MjNhNjEyMTczNi1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Lifebuoy",
+            "slug": "lifebuoy-ee77c00b8",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzMyNC42NDg3NTgxODMzNWE0MGQzYTMzODA0MS1iZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "bashundhara",
+            "slug": "bashundhara-1dded45d8",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA4LTMwXzE4MDYyMi43MTI4NjAyMDE4LTA3LTEwXzEwNTE1MC41OTQ5NjBiYXNodW5kaGFyYS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAyNTAsICJoZWlnaHQiOiAyNTAsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMCwgImciOiAwLCAiYiI6IDAsICJhbHBoYSI6IDB9fSwgInBuZyI6IHsiYWRhcHRpdmVGaWx0ZXJpbmciOiB0cnVlLCAicHJvZ3Jlc3NpdmUiOiB0cnVlLCAiZm9yY2UiOiB0cnVlfX19"
+        },
+        {
+            "name": "Walton",
+            "slug": "walton-72304b922",
+            "image_url": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiAibWVkaWEuZXZhbHkuY29tLmJkIiwgImtleSI6ICJ3YXRlcm1hcmtlZC8yMDE4LTA0LTA2XzE5MzI0Mi43MzMxMjR3YWx0b241YTBjMWZhZTJlMDdlLWJnLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDI1MCwgImhlaWdodCI6IDI1MCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAwLCAiZyI6IDAsICJiIjogMCwgImFscGhhIjogMH19LCAicG5nIjogeyJhZGFwdGl2ZUZpbHRlcmluZyI6IHRydWUsICJwcm9ncmVzc2l2ZSI6IHRydWUsICJmb3JjZSI6IHRydWV9fX0="
+        }
+    ]
+}
